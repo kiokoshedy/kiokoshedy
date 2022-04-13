@@ -6,5 +6,9 @@
 - 📫 How to reach me: **shkmusembi@gmail.com**
 - 😄 Pronouns: MR
 - ⚡ Fun fact: _Am serious 😄_
+
 Connect with me:
+https://www.linkedin.com/in/shadrack-kioko/ 
+
+
 
