@@ -1,7 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-<img src = "https://visitor-badge.glitch.me/badge?page_id=page.id" alt = ""/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73014&lines=I+am+a+Code+Ninja!)](https://git.io/typing-svg)
 
 <div align="center">
@@ -20,7 +18,7 @@
 
 ---
 ### :man_technologist: About Me :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1046EE&lines=I+am+a+Software+Developer+from+Kenya)](https://git.io/typing-svg)
+
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 
