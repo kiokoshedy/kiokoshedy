@@ -22,7 +22,7 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 
-- 🔭 I’m currently working on NODE
+- 🔭 I’m currently working on **Node Js**
 - 🌱 I’m currently learning Node
 - 💬 Ask me about _**Java, React, Android AWS**_
 - 📫 How to reach me: **shkmusembi@gmail.com**
