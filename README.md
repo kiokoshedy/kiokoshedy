@@ -2,7 +2,7 @@
 
 <img src = "https://visitor-badge.glitch.me/badge?page_id=page.id" alt = ""/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73014&lines=I+am+Code+Ninja!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73014&lines=I+am+a+Code+Ninja!;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -20,8 +20,8 @@
 
 ---
 ### :man_technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1046EE&lines=I+am+a+Software+Developer+from+Kenya)](https://git.io/typing-svg)
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 
 - 🔭 I’m currently working on NODE
