@@ -14,6 +14,8 @@
   </a>
 </div>
 
+---
+
 ### Hi there 👋 I am SHADRACK KIOKO
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
@@ -24,6 +26,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💬 Ask me about _**Java, React, Android AWS**_
 - 📫 How to reach me: **shkmusembi@gmail.com**
 - ⚡ Fun fact: _Am serious 😄_
+
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
