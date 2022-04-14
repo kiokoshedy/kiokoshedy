@@ -16,6 +16,9 @@
 
 ### Hi there 👋 I am SHADRACK KIOKO
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
+
 - 🔭 I’m currently working on NODE
 - 🌱 I’m currently learning Node
 - 💬 Ask me about _**Java, React, Android AWS**_
